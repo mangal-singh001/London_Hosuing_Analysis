@@ -48,3 +48,10 @@ The dataset contains historical property data with the following columns:
    ```bash
    git clone https://github.com/mangal-singh001/London_Hosuing_Analysis.git
    cd London_Hosuing_Analysis
+
+
+🙋‍♂️ Connect With Me 
+
+🔗 https://www.linkedin.com/in/mangal-singh123/
+
+💻 https://github.com/mangal-singh001
